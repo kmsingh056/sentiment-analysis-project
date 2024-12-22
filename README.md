@@ -61,6 +61,11 @@ Run the FastAPI server using Uvicorn
 ```
 
 
+## Screenshots
+
+![ScreenShot](https://github.com/kmsingh056/sentiment-analysis-project/blob/main/screenshot/Screenshot%20from%202024-12-22%2010-48-12.png?raw=true)
+
+![ScreenShot](https://github.com/kmsingh056/sentiment-analysis-project/blob/main/screenshot/Screenshot%20from%202024-12-22%2010-48-24.png?raw=true)
 ## Authors
 
 - [@kmsingh056](https://www.github.com/kmsingh056)
